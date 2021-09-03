@@ -1,0 +1,8 @@
+.btn {
+  width: 200px;
+}
+.btn_container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-row-gap: 5px;
+}
